@@ -1,2 +1,1 @@
-# SensitiveDataDetector
-Detect sensitive data in a database
+# Template project for Electron
